@@ -1,4 +1,4 @@
-module github.com/DrusGalkin/forum-client
+module github.com/SpayswolfGood/forum
 
 go 1.23.6
 
